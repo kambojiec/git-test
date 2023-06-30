@@ -1,0 +1,7 @@
+Полезные ссылки
+
+Презентация тренинга: DevTestOps-Version_Control_with_Git.pdf
+
+Официальный сайт Git: https://git-scm.com/
+
+Книга "ProGit", второе издание, на русском: https://git-scm.com/book/ru/v2
